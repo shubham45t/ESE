@@ -20,7 +20,7 @@ curl -s \
 -X POST \
 -d "{
 \"generationConfig\":{
-\"maxOutputTokens\":2000,
+\"maxOutputTokens\":300,
 \"temperature\":0.2
 },
 \"contents\":[
